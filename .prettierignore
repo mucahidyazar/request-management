@@ -1,0 +1,30 @@
+# Add files here to ignore them from prettier formatting
+/dist
+/coverage
+
+# STATIC ASSETS
+public
+src/assets
+
+# BUILD FOLDER
+build
+
+# NODE_MODULES
+node_modules
+
+# NPM 
+package-lock.json
+yarn.lock
+
+# CONFIG
+.eslintignore
+.prettierignore
+.gitignore
+.gitmodules
+amplify.yml
+.vscode
+# ENV
+.env*
+
+# MD FILES
+*.MD
